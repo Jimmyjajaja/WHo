@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: whoisit-php
-    env: docker
-    rootDir: .
-    dockerfilePath: ./Dockerfile
-    plan: free
-    branch: main
